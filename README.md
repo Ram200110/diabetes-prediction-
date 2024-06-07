@@ -9,7 +9,8 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 # **Screenshot**
 
-![Screenshot (110).jpg](screenshot.jpg)
+![Screenshot (110)](https://github.com/Ram200110/diabetes-prediction-/assets/124455749/4cebfe46-0a2b-46e5-a758-5cb17c042d49)
+
 
 # Installation
 
