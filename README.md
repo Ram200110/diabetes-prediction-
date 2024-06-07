@@ -9,7 +9,7 @@ In this project, our objective is to predict whether the patient has diabetes or
 
 # **Screenshot**
 
-![](screenshot.jpg)
+![Screenshot (110).jpg](screenshot.jpg)
 
 # Installation
 
